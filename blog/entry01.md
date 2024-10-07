@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
-
-Text
+# Entry 1: Why i chosed motivational speaker
+##### 10/7/24
+#### Contect
+#
 
 [Next](entry02.md)
 
