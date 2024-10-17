@@ -10,7 +10,10 @@
   <a href="https://arnoldspumpclub.com/" target="Arnoldspumpclub"> Arnoldspumpclub</a>
 </P> 
 # sorces i looked into
-<p>Some articles I did explore before choosing to be a motivational speaker are (https://www.forbes.com/sites/entertainment/article/famous-authors/] to learn about authors because that was also a topic I was interested in. I did find this page helpful,but it didn't grab my attention. So I thought I had to look at another web page to see if this topic really isn't right for me. I looked at [(https://thegreatestbooks.org/authors)] and I did learn about some really cool books that have been written by some amazing authors. But once again, nothing from this page gave me a sense of reason to choose this topic for my freedom project.</p> <a href="(https://www.forbes.com/sites/entertainment/article/famous-authors/"</a> <a> href="https://thegreatestbooks.org/authors"</a>
+<p>Some articles I did explore before choosing to be a motivational speaker are (https://www.forbes.com/sites/entertainment/article/famous-authors/] to learn about authors because that was also a topic I was interested in. I did find this page helpful,but it didn't grab my attention. So I thought I had to look at another web page to see if this topic really isn't right for me. I looked at [(https://thegreatestbooks.org/authors)] and I did learn about some really cool books that have been written by some amazing authors. But once again, nothing from this page gave me a sense of reason to choose this topic for my freedom project.
+  <a href="https://www.forbes.com/sites/entertainment/article/famous-authors/" target="forbes"> Forbes</a>
+  <a href="https://thegreatestbooks.org/authors" target="thegreatbooks"> The great books</a>
+</p> 
 # Engineering Design Process
 <p> Currently i am at a stage of researching the problem because, i need to find out first what are problems most individual now i days facing in their life that is making them feel so depressed and giving up at life! Another stage that i am in is finding possable solutions! I have to brainstorm some ways i can help people get back on track in their life. By either forming the phrases or form the right speach that i know will stick a strong massage to my audience to help them be motivated through their life.
 </p>
