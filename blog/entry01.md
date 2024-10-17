@@ -9,7 +9,7 @@
   <a href="https://www.ted.com/talks" target= "TedTalk"> TedTalk</a>
   <a href="https://arnoldspumpclub.com/" target="Arnoldspumpclub"> Arnoldspumpclub</a>
 </P> 
-<h1> sorces i looked into</h1>
+<h1> Sorces I Looked Into</h1>
 <p>Some articles I did explore before choosing to be a motivational speaker are (https://www.forbes.com/sites/entertainment/article/famous-authors/] to learn about authors because that was also a topic I was interested in. I did find this page helpful,but it didn't grab my attention. So I thought I had to look at another web page to see if this topic really isn't right for me. I looked at [(https://thegreatestbooks.org/authors)] and I did learn about some really cool books that have been written by some amazing authors. But once again, nothing from this page gave me a sense of reason to choose this topic for my freedom project.
   <a href="https://www.forbes.com/sites/entertainment/article/famous-authors/" target="forbes"> Forbes</a>
   <a href="https://thegreatestbooks.org/authors" target="thegreatbooks"> The great books</a>
