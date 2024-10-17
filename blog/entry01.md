@@ -5,8 +5,8 @@
 
 # Sources
 <p> Some sources I have always looked at,even before the Freedom Project, Were this website called [(https://www.ted.com/talks) ] This website has gone pretty viral on social media, so I assume people have an idea of what I am talking about when I say Ted Talk, which would be one of my sources. To be honest, I found their website really reliable and put a lot of trust in all the new information they put out. Another website I use is a personal website I started using often in the beginning of August 2024 on my phone and thought this website would be perfect for my freedom project! It's called [(https://arnoldspumpclub.com/).] How this website works is you sign up for free through email and you will be sent every morning motivational advice. I stumbled upon this website on my summer, break and ever since I have signed up, I have built a whole new perspective on how I view the world and life. So I just knew I had to use this amazing website to help me on my freedom project.
-  
-</P> <a> href= "https://www.ted.com/talks" </a> <a> href="https://arnoldspumpclub.com/" </a>
+  <a> href= "https://www.ted.com/talks" </a> <a> href="https://arnoldspumpclub.com/" </a>
+</P> 
 # sorces i looked into
 <p>Some articles I did explore before choosing to be a motivational speaker are (https://www.forbes.com/sites/entertainment/article/famous-authors/] to learn about authors because that was also a topic I was interested in. I did find this page helpful,but it didn't grab my attention. So I thought I had to look at another web page to see if this topic really isn't right for me. I looked at [(https://thegreatestbooks.org/authors)] and I did learn about some really cool books that have been written by some amazing authors. But once again, nothing from this page gave me a sense of reason to choose this topic for my freedom project.</p> <a href="(https://www.forbes.com/sites/entertainment/article/famous-authors/"</a> <a> href="https://thegreatestbooks.org/authors"</a>
 # Engineering Design Process
