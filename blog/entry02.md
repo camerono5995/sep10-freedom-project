@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# What i found and how i found it
+##### 11/4/24
 
 Text
 
