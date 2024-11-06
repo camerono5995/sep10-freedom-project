@@ -11,7 +11,7 @@ soft ware links
 
 ### EDP
 I am currently moving foward from step one to my next step on my freedom project because, i already made a solid choice in what i will be makeing my project on. And i have mention a verity of reasons into why i have choosen to base my project on modivation speaking for my project. I am pationate about this choice and i know i have no regrets in making this choice so now i now i am ready for the next step. Which is looking up information about software and hardware modivationl speakers use in their job. I was able to find some relible information to iclude in step two, For both hard and software. Now my next step is to do right after this step is to brain storm a invention i could create using insperation based on my research results.  
-### what i found about software that is required for modivational speakers to use
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
